@@ -1,3 +1,3 @@
 "# Life-Expectancy-and-GDP" 
-"# Life-Expectancy-and-GDP" 
-"# Life-Expectancy-and-GDP" 
+This project will visualize the relationshp between GDP (Gross Domestic Product) and Life Expectancy at birth (that is the average number of years a baby can expect to live at birth). One initial question is about the nature of the data. Gross Domestic Product is a measurement of the economy without qualification about how the economic impact, good or bad, is distributed. The total economic activity is not directly related to healthcare, but the question is whether there is some relationship between them.
+The code itself contains a walkthrough of the project including questions and assessments of the results.
