@@ -1,0 +1,10 @@
+[gui]
+	recentrepo = C:/Users/brobi/Downloads/sqlite-dll-win32-x86-3330000
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = brobinson234
+	email = 73311781+brobinson234@users.noreply.github.com
